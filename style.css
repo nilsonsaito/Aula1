@@ -1,9 +1,8 @@
 .cabecalho{
     width: 100%;
+    text-align: center;
 }
 
 .cabecalho__titulo{
     color: #00f;
-    width: 100%;
-    text-align: center;
 }
